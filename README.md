@@ -1,9 +1,18 @@
 ### E ai! Prazer sou o Gustavo Bassanetto! 👋
 <br>
 <div align="center">
-  <a href="https://github.com/Bassanetto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bassanetto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassanetto&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Bassanetto/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Bassanetto&theme=react&border=61dafb&hide_border=true" alt="stats" />
+  </a>
+    <a href="https://github.com/Bassanetto/github-readme-stats" title="Go to Source">
+      <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=Bassanetto&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<br>
+<div align="center"> 
+  <a href="https://github.com/Bassanetto/github-readme-stats">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassanetto&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  </a>
 </div>
 <br>
   📊 Essa semana passei meu tempo mexendo com:
