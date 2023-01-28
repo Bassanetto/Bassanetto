@@ -78,7 +78,7 @@ HTML         0 secs          ▒░░░░░░░░░░░░░░░░
   <a href = "mailto:gustavo.almeidabassanetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/bassanetto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bassanetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bassanetto)](www.linkedin.com/in/bassanetto)
+[![Linkedin Badge](https://img.shields.io/badge/-Bassanetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassanetto/)](https://www.linkedin.com/in/bassanetto/)
 [![Instagram Badge](https://img.shields.io/badge/-gustavo_bassanetto-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bassanetto)](https://www.instagram.com/gustavo_bassanetto)
 [![Discord Badge](https://img.shields.io/badge/-Bassanetto-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/4GQkjkZFEQ)](https://discord.gg/4GQkjkZFEQ)
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.almeidabassanetto@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:gustavo.almeidabassanetto@gmail.com)
