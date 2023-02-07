@@ -21,7 +21,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   </a>
 </div>
 <br>
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
     <img align="center" alt="Bassa-Js" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
   </a>
@@ -38,7 +38,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
     <img align="center" alt="Bassa-Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajava">
-    <img align="center" alt="Bassa-Java" src="https://img.shields.io/badge/-java-0f003e?style=flat-square&logo=Java">
+    <img align="center" alt="Bassa-Java" src="https://img.shields.io/badge/-Java-0f003e?style=flat-square&logo=Java">
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Acsharp">
     <img align="center" alt="Bassa-Csharp" src="https://img.shields.io/badge/-csharp-purple?style=flat-square&logo=csharp">
@@ -54,6 +54,9 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Amysql">
     <img align="center" alt="Bassa-MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
+  </a>
+ <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
+    <img align="center" alt="Bassa-Node.JS" src="https://img.shields.io/badge/-Node.JS-green?style=flat-square&logo=node.js">
   </a>
 </div>
 <br/>
