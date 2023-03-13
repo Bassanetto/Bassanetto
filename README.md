@@ -57,7 +57,10 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   </a>
  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
     <img align="center" alt="Bassa-Node.JS" src="https://img.shields.io/badge/-Node.JS-green?style=flat-square&logo=node.js">
-  </a>
+ </a>
+ <a href="https://github.com/search?&q=user%3ABassanetto+language%3Apostgresql">
+    <img align="center" alt="Bassa-PostGreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
+ </a>
 </div>
 <br/>
 
