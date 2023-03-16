@@ -1,6 +1,6 @@
 ### E ai! Prazer sou o Gustavo Bassanetto! 👋
 <br>
-Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Análise e Desenvolvimento de Sistemas. Meu foco em linguagens é mais voltado para o backend com linguagens como C#, Python e Java mas também tenho familiaridade com frontend mexendo com angular. Espero que gostem do meu perfil, tmj! ⚡ 
+Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Análise e Desenvolvimento de Sistemas. Meu foco em linguagens é mais voltado para o backend com linguagens como C#, Python e Java mas também tenho familiaridade com frontend mexendo com frameworks como o angular. Espero que gostem do meu perfil, tmj! ⚡ 
 <br>
 <br>
 
