@@ -46,18 +46,18 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Aangular"> 
     <img align="center" alt="Bassa-Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
   </a>
-  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Areact">                                                 
+<!--   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Areact">                                                 
     <img align="center" alt="Bassa-React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-  </a>
+  </a> -->
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Abootstrap"> 
     <img align="center" alt="Bassa-Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap">
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Amysql">
     <img align="center" alt="Bassa-MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
   </a>
- <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
+<!--  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
     <img align="center" alt="Bassa-Node.JS" src="https://img.shields.io/badge/-Node.JS-green?style=flat-square&logo=node.js">
- </a>
+ </a> -->
  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Apostgresql">
     <img align="center" alt="Bassa-PostGreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
  </a>
