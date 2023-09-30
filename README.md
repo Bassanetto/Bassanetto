@@ -10,8 +10,8 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   <a href="https://github.com/Bassanetto/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Bassanetto&theme=react&border=61dafb&hide_border=true" alt="stats" />
   </a>
-    <a href="https://github.com/Bassanetto/github-readme-stats" title="Go to Source">
-      <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=Bassanetto&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/Bassanetto/github-readme-stats" title="Go to Source">
+      <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=Bassanetto&show_icons=true&theme=react&border_color=61dafb&hide_border=true&show=prs_merged,private_contributions" />
   </a>
 </div>
 <br>
@@ -65,6 +65,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 <br/>
 
 ###  📊 Essa semana passei meu tempo mexendo com:
+[![wakatime](https://wakatime.com/badge/user/08997581-7dfa-428d-93c8-a80ef5b36626.svg)](https://wakatime.com/@08997581-7dfa-428d-93c8-a80ef5b36626)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -76,6 +77,9 @@ Text             1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+[![Bassanetto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@08997581-7dfa-428d-93c8-a80ef5b36626)](https://github.com/Bassanetto/github-readme-stats)
+
 
 ### Caso queiram entrar em contato cmg! 😎
 <br/>
