@@ -78,9 +78,6 @@ JSON         1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Bassanetto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@08997581-7dfa-428d-93c8-a80ef5b36626)](https://github.com/Bassanetto/github-readme-stats)
-
-
 ### Caso queiram entrar em contato cmg! 😎
 <br/>
 <div> 
