@@ -88,9 +88,7 @@ XML          4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Instagram Badge](https://img.shields.io/badge/-gustavo_bassanetto-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bassanetto)](https://www.instagram.com/gustavo_bassanetto)
 [![Discord Badge](https://img.shields.io/badge/-Bassanetto-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/4GQkjkZFEQ)](https://discord.gg/4GQkjkZFEQ)
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.almeidabassanetto@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:gustavo.almeidabassanetto@gmail.com)
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+ </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>
