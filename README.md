@@ -5,6 +5,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 <br>
 
 ### ⚡ Meus Status! ⚡
+<small></small>
 <br>
 <div align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&theme=react">
@@ -32,33 +33,48 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Acss">
     <img align="center" alt="Bassa-CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
   </a>
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ascss">
+    <img align="center" alt="Bassa-SaSS" src="https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass">
+  </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Apython">
     <img align="center" alt="Bassa-Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajava">
     <img align="center" alt="Bassa-Java" src="https://img.shields.io/badge/-Java-0f003e?style=flat-square&logo=Java">
   </a>
-  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Acsharp">
-    <img align="center" alt="Bassa-Csharp" src="https://img.shields.io/badge/-csharp-purple?style=flat-square&logo=csharp">
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Adotnet">
+    <img align="center" alt="Bassa-dotnet" src="https://img.shields.io/badge/-dotnet-purple?style=flat-square&logo=dotnet">
+  </a>
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Aionic">
+    <img align="center" alt="Bassa-ionic" src="https://img.shields.io/badge/-ionic-white?style=flat-square&logo=Ionic">
+  </a>
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Acapacitor">
+    <img align="center" alt="Bassa-capacitor" src="https://img.shields.io/badge/-capacitor-white?style=flat-square&logo=capacitor">
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Aangular"> 
-    <img align="center" alt="Bassa-Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
+    <img align="center" alt="Bassa-Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=flat-square&logo=angular">
   </a>
-<!--   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Areact">                                                 
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Aprimeng"> 
+    <img align="center" alt="Bassa-primeng" src="https://img.shields.io/badge/-primeng-DD0031?style=flat-square&logo=primeng">
+  </a>
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Areact">                                                 
     <img align="center" alt="Bassa-React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-  </a> -->
+  </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Abootstrap"> 
     <img align="center" alt="Bassa-Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap">
   </a>
   <a href="https://github.com/search?&q=user%3ABassanetto+language%3Amysql">
     <img align="center" alt="Bassa-MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
   </a>
-<!--  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Ajavascript">
     <img align="center" alt="Bassa-Node.JS" src="https://img.shields.io/badge/-Node.JS-green?style=flat-square&logo=node.js">
- </a> -->
- <a href="https://github.com/search?&q=user%3ABassanetto+language%3Apostgresql">
+  </a>
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Apostgresql">
     <img align="center" alt="Bassa-PostGreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
- </a>
+  </a>
+  <a href="https://github.com/search?&q=user%3ABassanetto+language%3Aaws">
+    <img align="center" alt="Bassa-aws" src="https://img.shields.io/badge/-aws-232F3E?style=flat-square&logo=amazonwebservices">
+  </a>
 </div>
 <br/>
 
