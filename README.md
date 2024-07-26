@@ -11,7 +11,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
     <a href="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&theme=react">
         <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Streak"/>
     </a>
-    <img width=370 src="https://github-readme-stats.vercel.app/api?username=Bassanetto&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <img width=370 src="https://github-readme-stats.vercel.app/api?username=Bassanetto&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
 </div>
 <br>
 <div align="center"> 
