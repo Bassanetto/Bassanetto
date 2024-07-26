@@ -16,7 +16,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 <br>
 <div align="center"> 
   <a href="https://github.com/Bassanetto/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassanetto&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassanetto&count_private=true&include_all_commits=true&layout=compact&langs_count=10&theme=react&hide_border=true"/>
   </a>
 </div>
 <br>
