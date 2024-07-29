@@ -78,6 +78,38 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 </div>
 <br/>
 
+## 🚀 Projetos em Destaque
+
+### [Projeto Nome 1](https://github.com/Bassanetto/projeto-nome-1)
+Descrição curta do projeto 1. 
+- 🔧 Tecnologias: Angular, PrimeNG, .NET
+- ⭐ Destaques: Implementação de funcionalidades X, Y, Z
+- 📊 Estatísticas: Mais de 100 estrelas no GitHub, 50 forks
+
+### [Projeto Nome 2](https://github.com/Bassanetto/projeto-nome-2)
+Descrição curta do projeto 2.
+- 🔧 Tecnologias: Ionic, Capacitor, Node.js
+- ⭐ Destaques: Aplicativo mobile com integração API, design responsivo
+- 📊 Estatísticas: 200+ downloads na Play Store
+
+### [Projeto Nome 3](https://github.com/Bassanetto/projeto-nome-3)
+Descrição curta do projeto 3.
+- 🔧 Tecnologias: React, Redux, AWS
+- ⭐ Destaques: Sistema de autenticação seguro, deploy na AWS
+- 📊 Estatísticas: Utilizado por 5 empresas
+
+## 🛠️ Contribuições Recentes
+
+### [Repositório Nome 1](https://github.com/usuario/repo-nome-1)
+Descrição da contribuição feita no repositório 1.
+- 🔧 Adição de funcionalidade X
+- 🗓️ Data: 01/07/2024
+
+### [Repositório Nome 2](https://github.com/usuario/repo-nome-2)
+Descrição da contribuição feita no repositório 2.
+- 🔧 Correção de bug Y
+- 🗓️ Data: 15/06/2024
+
 ###  📊 Essa semana passei meu tempo mexendo com:
 [![wakatime](https://wakatime.com/badge/user/08997581-7dfa-428d-93c8-a80ef5b36626.svg)](https://wakatime.com/@08997581-7dfa-428d-93c8-a80ef5b36626)
 <!--START_SECTION:waka-->
@@ -95,10 +127,6 @@ JSON         15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### Caso queiram entrar em contato cmg! 😎
 <br/>
 <div> 
-  <!-- <a href="https://www.instagram.com/gustavo_bassanetto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/4GQkjkZFEQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavo.almeidabassanetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/bassanetto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bassanetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassanetto/)](https://www.linkedin.com/in/bassanetto/)
 [![Instagram Badge](https://img.shields.io/badge/-gustavo_bassanetto-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bassanetto)](https://www.instagram.com/gustavo_bassanetto)
