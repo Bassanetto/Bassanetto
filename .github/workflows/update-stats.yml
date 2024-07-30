@@ -24,5 +24,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_TOTAL_CODE_TIME: False
           SHOW_OS: True
-          DEBUG_LOGGING: False
+          SHOW_UPDATED_DATE: True
+          SHOW_LOC_CHART: False
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           SYMBOL_VERSION: 2
