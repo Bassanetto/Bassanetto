@@ -4,6 +4,10 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 <br>
 <br>
 
+<!-- ### Spotify Playing 
+
+[![Spotify]([https://github.com/kittinan/spotify-github-profile]https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2kns6bq5qbajdygt17yduvi9h&cover_image=true&theme=novatorem&show_offline=false&background_color=0011ff&interchange=true&bar_color=ff0000&bar_color_cover=true)] -->
+
 ### ⚡ Meus Status! ⚡
 <small></small>
 <br>
@@ -11,12 +15,12 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
     <a href="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&theme=react">
         <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&count_private=true&include_all_commits=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Streak"/>
     </a>
-    <img width=370 src="https://github-readme-stats.vercel.app/api?username=Bassanetto&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <img width=370 src="https://github-readme-stats-seven-chi-74.vercel.app/api?username=Bassanetto&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
 </div>
 <br>
 <div align="center"> 
   <a href="https://github.com/Bassanetto/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassanetto&count_private=true&include_all_commits=true&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+      <img height=200 src="https://github-readme-stats-seven-chi-74.vercel.app/api/top-langs/?username=Bassanetto&count_private=true&include_all_commits=true&layout=compact&langs_count=10&theme=react&hide_border=true"/>
   </a>
 </div>
 <br>
@@ -78,7 +82,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 </div>
 <br/>
 
-## 🚀 Projetos em Destaque
+<!-- ## 🚀 Projetos em Destaque
 
 ### [Projeto Nome 1](https://github.com/Bassanetto/projeto-nome-1)
 Descrição curta do projeto 1. 
@@ -108,18 +112,36 @@ Descrição da contribuição feita no repositório 1.
 ### [Repositório Nome 2](https://github.com/usuario/repo-nome-2)
 Descrição da contribuição feita no repositório 2.
 - 🔧 Correção de bug Y
-- 🗓️ Data: 15/06/2024
+- 🗓️ Data: 15/06/2024 -->
 
 ###  📊 Essa semana passei meu tempo mexendo com:
 [![wakatime](https://wakatime.com/badge/user/08997581-7dfa-428d-93c8-a80ef5b36626.svg)](https://wakatime.com/@08997581-7dfa-428d-93c8-a80ef5b36626)
 <!--START_SECTION:waka-->
 
 ```txt
+⌚︎ Timezone: Asia/Calcutta
+
+💬 Languages:
 C#           8 hrs 49 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.10 %
 TypeScript   2 hrs 13 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.63 %
 HTML         1 hr 55 mins    ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.58 %
 SCSS         38 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 %
 JSON         15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.79 %
+
+🐱‍💻 Projects:
+ctx_connector            4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   46.33%
+NetSuite-Connector       1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29%
+mango-web-master         1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
+cable                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.41%
+denAPI                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66%
+
+🔥 Editors:
+WebStorm                 6 hrs 47 mins       ███████████████████░░░░░░   77.43%
+PhpStorm                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+PyCharm                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+
+💻 Operating Systems:
+Windows                  8 hrs 46 mins       █████████████████████████   100.0%
 ```
 
 <!--END_SECTION:waka-->
@@ -128,11 +150,13 @@ JSON         15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <br/>
 <div> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bassanetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassanetto/)](https://www.linkedin.com/in/bassanetto/)
-[![Instagram Badge](https://img.shields.io/badge/-gustavo_bassanetto-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bassanetto)](https://www.instagram.com/gustavo_bassanetto)
-[![Discord Badge](https://img.shields.io/badge/-Bassanetto-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/4GQkjkZFEQ)](https://discord.gg/4GQkjkZFEQ)
-[![Gmail Badge](https://img.shields.io/badge/-gustavo.almeidabassanetto@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:gustavo.almeidabassanetto@gmail.com)
- </div>
+  [![Linkedin Badge](https://img.shields.io/badge/-Bassanetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassanetto/)](https://www.linkedin.com/in/bassanetto/)
+  [![Instagram Badge](https://img.shields.io/badge/-gustavo_bassanetto-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bassanetto)](https://www.instagram.com/gustavo_bassanetto)
+  [![Discord Badge](https://img.shields.io/badge/-Bassanetto-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/4GQkjkZFEQ)](https://discord.gg/4GQkjkZFEQ)
+  [![Gmail Badge](https://img.shields.io/badge/-gustavo.almeidabassanetto@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:gustavo.almeidabassanetto@gmail.com)
+
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>
