@@ -6,21 +6,21 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2kns6bq5qbajdygt17yduvi9h&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2kns6bq5qbajdygt17yduvi9h&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2kns6bq5qbajdygt17yduvi9h&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=fb8c00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2kns6bq5qbajdygt17yduvi9h&redirect=true)
 
 ### ⚡ Meus Status! ⚡
 <small></small>
 <br>
 <div align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&theme=react">
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Bassanetto&count_private=true&include_all_commits=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Streak"/>
+    <a href="https://github-readme-streak-stats-ashen-seven.vercel.app?user=Bassanetto&theme=react">
+        <img width=390 src="https://github-readme-streak-stats-ashen-seven.vercel.app?user=Bassanetto&count_private=true&include_all_commits=true&theme=dark&border_color=61dafb&hide_border=true&sideLabels=fb8c00&sideNums=fb8c00" alt="GitHub Streak"/>
     </a>
-    <img width=370 src="https://github-readme-stats-seven-chi-74.vercel.app/api?username=Bassanetto&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <img width=370 src="https://github-readme-stats-seven-chi-74.vercel.app/api?username=Bassanetto&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&title_color=fb8c00&text_color=f2f2f2&icon_color=fb8c00"/>
 </div>
 <br>
 <div align="center"> 
   <a href="https://github.com/Bassanetto/github-readme-stats">
-      <img height=200 src="https://github-readme-stats-seven-chi-74.vercel.app/api/top-langs/?username=Bassanetto&count_private=true&include_all_commits=true&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+      <img height=200 src="https://github-readme-stats-seven-chi-74.vercel.app/api/top-langs/?username=Bassanetto&count_private=true&include_all_commits=true&layout=compact&langs_count=10&theme=dark&hide_border=true&title_color=fb8c00"/>
   </a>
 </div>
 <br>
@@ -81,38 +81,6 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
   </a>
 </div>
 <br/>
-
-<!-- ## 🚀 Projetos em Destaque
-
-### [Projeto Nome 1](https://github.com/Bassanetto/projeto-nome-1)
-Descrição curta do projeto 1. 
-- 🔧 Tecnologias: Angular, PrimeNG, .NET
-- ⭐ Destaques: Implementação de funcionalidades X, Y, Z
-- 📊 Estatísticas: Mais de 100 estrelas no GitHub, 50 forks
-
-### [Projeto Nome 2](https://github.com/Bassanetto/projeto-nome-2)
-Descrição curta do projeto 2.
-- 🔧 Tecnologias: Ionic, Capacitor, Node.js
-- ⭐ Destaques: Aplicativo mobile com integração API, design responsivo
-- 📊 Estatísticas: 200+ downloads na Play Store
-
-### [Projeto Nome 3](https://github.com/Bassanetto/projeto-nome-3)
-Descrição curta do projeto 3.
-- 🔧 Tecnologias: React, Redux, AWS
-- ⭐ Destaques: Sistema de autenticação seguro, deploy na AWS
-- 📊 Estatísticas: Utilizado por 5 empresas
-
-## 🛠️ Contribuições Recentes
-
-### [Repositório Nome 1](https://github.com/usuario/repo-nome-1)
-Descrição da contribuição feita no repositório 1.
-- 🔧 Adição de funcionalidade X
-- 🗓️ Data: 01/07/2024
-
-### [Repositório Nome 2](https://github.com/usuario/repo-nome-2)
-Descrição da contribuição feita no repositório 2.
-- 🔧 Correção de bug Y
-- 🗓️ Data: 15/06/2024 -->
 
 ###  📊 Essa semana passei meu tempo mexendo com:
 [![wakatime](https://wakatime.com/badge/user/08997581-7dfa-428d-93c8-a80ef5b36626.svg)](https://wakatime.com/@08997581-7dfa-428d-93c8-a80ef5b36626)
