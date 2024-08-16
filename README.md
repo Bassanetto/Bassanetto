@@ -114,7 +114,7 @@ Windows                  25 hrs 3 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 16/08/2024 10:11:57 UTC
+ Last Updated on 16/08/2024 12:21:01 UTC
 <!--END_SECTION:waka-->
 
 ### Caso queiram entrar em contato cmg! 😎
