@@ -85,7 +85,7 @@ Atualmente sou estudante da FACENS (Faculdade de Engenharia de Sorocaba) em Aná
 ###  📊 Essa semana passei meu tempo mexendo com:
 [![wakatime](https://wakatime.com/badge/user/08997581-7dfa-428d-93c8-a80ef5b36626.svg)](https://wakatime.com/@08997581-7dfa-428d-93c8-a80ef5b36626)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -114,7 +114,7 @@ Windows                  14 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 28/01/2026 04:38:55 UTC
+ Last Updated on 28/01/2026 06:28:04 UTC
 <!--END_SECTION:waka-->
 
 ### Caso queiram entrar em contato cmg! 😎
